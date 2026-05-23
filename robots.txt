@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slotnexa.pages.dev/sitemap.xml
